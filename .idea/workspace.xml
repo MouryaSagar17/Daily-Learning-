@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="709237ad-0ca9-44cd-b266-11b5fc3633ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeaporNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumofRangeN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greatestof2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greatestof3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeUptoN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeorNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReverseaNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SumofN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.PostiAndNegi.executor": "Run",
+    "Application.PostiAndNegi.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -63,8 +64,9 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="PostiAndNegi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="24" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="PostiAndNegi" />
-      <module name="Daily-Learning-" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
