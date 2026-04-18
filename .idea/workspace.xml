@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="709237ad-0ca9-44cd-b266-11b5fc3633ba" name="Changes" comment="" />
+    <list default="true" id="709237ad-0ca9-44cd-b266-11b5fc3633ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmStrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/ArmStrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArmStrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArmStrong.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
